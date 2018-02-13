@@ -28,11 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.Title = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.SubmitBooking = new System.Windows.Forms.Button();
             this.CheckBookingsButton = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
@@ -43,63 +38,27 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TimeBox = new System.Windows.Forms.ComboBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.Platform = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TimeBox = new System.Windows.Forms.ComboBox();
+            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NoOfPeopleComboBox = new System.Windows.Forms.ComboBox();
+            this.label7 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
             // 
-            // Title
-            // 
-            this.Title.AutoSize = true;
-            this.Title.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Title.Location = new System.Drawing.Point(124, 46);
-            this.Title.Name = "Title";
-            this.Title.Size = new System.Drawing.Size(370, 31);
-            this.Title.TabIndex = 2;
-            this.Title.Text = "Super Duper Booking System";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(280, 139);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 3;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(280, 181);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 4;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label1.Location = new System.Drawing.Point(200, 142);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(33, 13);
-            this.label1.TabIndex = 5;
-            this.label1.Text = "Login";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(200, 184);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(53, 13);
-            this.label2.TabIndex = 6;
-            this.label2.Text = "Password";
-            // 
             // SubmitBooking
             // 
-            this.SubmitBooking.Location = new System.Drawing.Point(81, 236);
+            this.SubmitBooking.Location = new System.Drawing.Point(56, 43);
             this.SubmitBooking.Name = "SubmitBooking";
             this.SubmitBooking.Size = new System.Drawing.Size(119, 55);
             this.SubmitBooking.TabIndex = 7;
@@ -109,7 +68,7 @@
             // 
             // CheckBookingsButton
             // 
-            this.CheckBookingsButton.Location = new System.Drawing.Point(610, 236);
+            this.CheckBookingsButton.Location = new System.Drawing.Point(56, 136);
             this.CheckBookingsButton.Name = "CheckBookingsButton";
             this.CheckBookingsButton.Size = new System.Drawing.Size(119, 55);
             this.CheckBookingsButton.TabIndex = 8;
@@ -124,7 +83,7 @@
             this.Column1,
             this.Column2,
             this.Column3});
-            this.dataGridView1.Location = new System.Drawing.Point(63, 452);
+            this.dataGridView1.Location = new System.Drawing.Point(69, 234);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(506, 150);
             this.dataGridView1.TabIndex = 9;
@@ -148,7 +107,7 @@
             // 
             // monthCalendar1
             // 
-            this.monthCalendar1.Location = new System.Drawing.Point(768, 63);
+            this.monthCalendar1.Location = new System.Drawing.Point(542, 43);
             this.monthCalendar1.Name = "monthCalendar1";
             this.monthCalendar1.TabIndex = 10;
             this.monthCalendar1.DateChanged += new System.Windows.Forms.DateRangeEventHandler(this.monthCalendar1_DateChanged);
@@ -160,11 +119,11 @@
             "PC",
             "XBONE",
             "PS4"});
-            this.comboBox1.Location = new System.Drawing.Point(259, 236);
+            this.comboBox1.Location = new System.Drawing.Point(361, 43);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 12;
-            this.comboBox1.Text = "Platform";
+            this.comboBox1.Text = "Please Choose";
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // comboBox2
@@ -174,46 +133,28 @@
             "1 Hour",
             "2 Hours",
             "5 Hours"});
-            this.comboBox2.Location = new System.Drawing.Point(259, 270);
+            this.comboBox2.Location = new System.Drawing.Point(361, 77);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(121, 21);
             this.comboBox2.TabIndex = 13;
-            this.comboBox2.Text = "Booking Length";
+            this.comboBox2.Text = "Please Choose";
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // dataGridView2
             // 
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView2.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Column4,
+            this.Platform,
             this.Column5,
             this.Column6,
-            this.Column7});
-            this.dataGridView2.Location = new System.Drawing.Point(610, 452);
+            this.Column7,
+            this.Column4,
+            this.Column8});
+            this.dataGridView2.Location = new System.Drawing.Point(69, 234);
             this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(438, 150);
+            this.dataGridView2.Size = new System.Drawing.Size(650, 150);
             this.dataGridView2.TabIndex = 14;
             this.dataGridView2.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
-            // 
-            // Column4
-            // 
-            this.Column4.HeaderText = "Column4";
-            this.Column4.Name = "Column4";
-            // 
-            // Column5
-            // 
-            this.Column5.HeaderText = "Column5";
-            this.Column5.Name = "Column5";
-            // 
-            // Column6
-            // 
-            this.Column6.HeaderText = "Column6";
-            this.Column6.Name = "Column6";
-            // 
-            // Column7
-            // 
-            this.Column7.HeaderText = "Column7";
-            this.Column7.Name = "Column7";
             // 
             // TimeBox
             // 
@@ -227,17 +168,133 @@
             "02:00",
             "03:00",
             "04:00"});
-            this.TimeBox.Location = new System.Drawing.Point(259, 312);
+            this.TimeBox.Location = new System.Drawing.Point(361, 114);
             this.TimeBox.Name = "TimeBox";
             this.TimeBox.Size = new System.Drawing.Size(121, 21);
             this.TimeBox.TabIndex = 15;
+            this.TimeBox.Text = "Please Choose";
             this.TimeBox.SelectedIndexChanged += new System.EventHandler(this.TimeBox_SelectedIndexChanged);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(206, 46);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(45, 13);
+            this.label3.TabIndex = 16;
+            this.label3.Text = "Platform";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(206, 80);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(82, 13);
+            this.label4.TabIndex = 17;
+            this.label4.Text = "Booking Length";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(206, 117);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(55, 13);
+            this.label5.TabIndex = 18;
+            this.label5.Text = "Start Time";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(206, 152);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(49, 13);
+            this.label6.TabIndex = 19;
+            this.label6.Text = "Software";
+            // 
+            // comboBox3
+            // 
+            this.comboBox3.FormattingEnabled = true;
+            this.comboBox3.Items.AddRange(new object[] {
+            "Grand Theft Auto",
+            "Mortal Kombat",
+            "Call of Duty",
+            "League of Legends",
+            "Counter Strike",
+            "Crash Bandicoot"});
+            this.comboBox3.Location = new System.Drawing.Point(361, 149);
+            this.comboBox3.Name = "comboBox3";
+            this.comboBox3.Size = new System.Drawing.Size(121, 21);
+            this.comboBox3.TabIndex = 20;
+            this.comboBox3.Text = "Please Choose";
+            this.comboBox3.SelectedIndexChanged += new System.EventHandler(this.comboBox3_SelectedIndexChanged);
+            // 
+            // Platform
+            // 
+            this.Platform.HeaderText = "Platform";
+            this.Platform.Name = "Platform";
+            // 
+            // Column5
+            // 
+            this.Column5.HeaderText = "Booking Length";
+            this.Column5.Name = "Column5";
+            // 
+            // Column6
+            // 
+            this.Column6.HeaderText = "Date";
+            this.Column6.Name = "Column6";
+            // 
+            // Column7
+            // 
+            this.Column7.HeaderText = "Start Time";
+            this.Column7.Name = "Column7";
+            // 
+            // Column4
+            // 
+            this.Column4.HeaderText = "Software";
+            this.Column4.Name = "Column4";
+            // 
+            // Column8
+            // 
+            this.Column8.HeaderText = "Number of People";
+            this.Column8.Name = "Column8";
+            // 
+            // NoOfPeopleComboBox
+            // 
+            this.NoOfPeopleComboBox.FormattingEnabled = true;
+            this.NoOfPeopleComboBox.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4"});
+            this.NoOfPeopleComboBox.Location = new System.Drawing.Point(361, 184);
+            this.NoOfPeopleComboBox.Name = "NoOfPeopleComboBox";
+            this.NoOfPeopleComboBox.Size = new System.Drawing.Size(121, 21);
+            this.NoOfPeopleComboBox.TabIndex = 22;
+            this.NoOfPeopleComboBox.Text = "Please Choose";
+            this.NoOfPeopleComboBox.SelectedIndexChanged += new System.EventHandler(this.NoOfPeopleComboBox_SelectedIndexChanged);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(206, 187);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(92, 13);
+            this.label7.TabIndex = 21;
+            this.label7.Text = "Number of People";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1060, 667);
+            this.ClientSize = new System.Drawing.Size(821, 429);
+            this.Controls.Add(this.NoOfPeopleComboBox);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.comboBox3);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.TimeBox);
             this.Controls.Add(this.dataGridView2);
             this.Controls.Add(this.comboBox2);
@@ -246,11 +303,6 @@
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.CheckBookingsButton);
             this.Controls.Add(this.SubmitBooking);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.Title);
             this.Name = "Form1";
             this.Text = "User Interface";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
@@ -261,11 +313,6 @@
         }
 
         #endregion
-        private System.Windows.Forms.Label Title;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button SubmitBooking;
         private System.Windows.Forms.Button CheckBookingsButton;
         private System.Windows.Forms.DataGridView dataGridView1;
@@ -276,11 +323,20 @@
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.DataGridView dataGridView2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
+        private System.Windows.Forms.ComboBox TimeBox;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.ComboBox comboBox3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Platform;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column7;
-        private System.Windows.Forms.ComboBox TimeBox;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column8;
+        private System.Windows.Forms.ComboBox NoOfPeopleComboBox;
+        private System.Windows.Forms.Label label7;
     }
 }
 

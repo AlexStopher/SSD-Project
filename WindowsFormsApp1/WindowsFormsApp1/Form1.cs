@@ -41,6 +41,9 @@ namespace WindowsFormsApp1
 
             string Platform = comboBox1.GetItemText(comboBox1.SelectedItem);
             string TimeLength = comboBox2.GetItemText(comboBox2.SelectedItem);
+            string Software = comboBox3.GetItemText(comboBox3.SelectedItem);
+            string NoOfPeople = NoOfPeopleComboBox.GetItemText(NoOfPeopleComboBox.SelectedItem);
+
             DateTime Date = monthCalendar1.SelectionStart;
             string Time = TimeBox.GetItemText(TimeBox.SelectedItem);
 
@@ -61,10 +64,10 @@ namespace WindowsFormsApp1
 
 
             //If successful
-            if (Platform != "" && TimeLength != "")
+            if (Platform != "" && TimeLength != "" && Time != "" && Software != "" && NoOfPeople != "")
             {
                 
-                dataGridView2.Rows.Insert(dataGridView2.RowCount - 1, Platform, TimeLength, Date.ToShortDateString(), Time);
+                dataGridView2.Rows.Insert(dataGridView2.RowCount - 1, Platform, TimeLength, Date.ToShortDateString(), Time, Software, NoOfPeople);
                 MessageBox.Show("Booking has been made!", "Booking check", MessageBoxButtons.OK);
             }
 
@@ -111,6 +114,21 @@ namespace WindowsFormsApp1
         }
 
         private void TimeBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void NoOfPeopleComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
         {
 
         }
