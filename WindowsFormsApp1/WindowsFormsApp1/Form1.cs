@@ -66,9 +66,24 @@ namespace WindowsFormsApp1
             //If successful
             if (Platform != "" && TimeLength != "" && Time != "" && Software != "" && NoOfPeople != "")
             {
-                
-                dataGridView2.Rows.Insert(dataGridView2.RowCount - 1, Platform, TimeLength, Date.ToShortDateString(), Time, Software, NoOfPeople);
-                MessageBox.Show("Booking has been made!", "Booking check", MessageBoxButtons.OK);
+                bool IsDuplicate = false;
+
+                for(int i = 0; i < dataGridView2.RowCount - 1; i++)
+                {                
+
+                    if (Time == dataGridView2.Rows[i].Cells[3].Value.ToString())
+                    {
+                        IsDuplicate = true;
+                    }
+                }
+
+                if (IsDuplicate == false)
+                {
+                    dataGridView2.Rows.Insert(dataGridView2.RowCount - 1, Platform, TimeLength, Date.ToShortDateString(), Time, Software, NoOfPeople);
+                    MessageBox.Show("Booking has been made!", "Booking check", MessageBoxButtons.OK);
+                }
+                else
+                    MessageBox.Show("Duplicate booking, choose another time.", "Booking check", MessageBoxButtons.OK);
             }
 
         }
@@ -88,6 +103,7 @@ namespace WindowsFormsApp1
             dataGridView1.Visible = true;
         }
 
+        //To delete
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
