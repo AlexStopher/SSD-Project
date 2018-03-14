@@ -77,13 +77,49 @@ namespace WindowsFormsApp1
                     }
                 }
 
-                if (IsDuplicate == false)
+                //Add code to check if member here or not , maybe make into a switch using time data
+                if (IsDuplicate == false && TimeLength == "1 Hour")
                 {
-                    dataGridView2.Rows.Insert(dataGridView2.RowCount - 1, Platform, TimeLength, Date.ToShortDateString(), Time, Software, NoOfPeople);
-                    MessageBox.Show("Booking has been made!", "Booking check", MessageBoxButtons.OK);
+
+                    if (MessageBox.Show("Booking will cost £1.50", "Confirm", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
+                    {
+                        dataGridView2.Rows.Insert(dataGridView2.RowCount - 1, Platform, TimeLength, Date.ToShortDateString(), Time, Software, NoOfPeople);
+                    }
+                    else
+                    {
+
+                    }
                 }
-                else
-                    MessageBox.Show("Duplicate booking, choose another time.", "Booking check", MessageBoxButtons.OK);
+                else if (IsDuplicate == false && TimeLength == "2 Hours")
+                {
+                    if (MessageBox.Show("Booking will cost £2.50", "Confirm", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
+                    {
+                        dataGridView2.Rows.Insert(dataGridView2.RowCount - 1, Platform, TimeLength, Date.ToShortDateString(), Time, Software, NoOfPeople);
+                    }
+                    else
+                    {
+
+                    }
+                }
+                else if (IsDuplicate == false && TimeLength == "5 Hours")
+                {
+                    if (MessageBox.Show("Booking will cost £4.00", "Confirm", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
+                    {
+                        dataGridView2.Rows.Insert(dataGridView2.RowCount - 1, Platform, TimeLength, Date.ToShortDateString(), Time, Software, NoOfPeople);
+                    }
+                    else
+                    {
+
+                    }
+                }
+
+                //if (IsDuplicate == false)
+                //{
+                //    dataGridView2.Rows.Insert(dataGridView2.RowCount - 1, Platform, TimeLength, Date.ToShortDateString(), Time, Software, NoOfPeople);
+                //    MessageBox.Show("Booking has been made!", "Booking check", MessageBoxButtons.OK);
+                //}
+                //else
+                //    MessageBox.Show("Duplicate booking, choose another time.", "Booking check", MessageBoxButtons.OK);
             }
 
         }
