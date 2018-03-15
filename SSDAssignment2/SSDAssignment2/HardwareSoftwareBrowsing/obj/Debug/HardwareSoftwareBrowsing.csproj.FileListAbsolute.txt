@@ -1,0 +1,11 @@
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\bin\Debug\HardwareSoftwareBrowsing.exe.config
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\bin\Debug\HardwareSoftwareBrowsing.exe
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\bin\Debug\HardwareSoftwareBrowsing.pdb
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.HardSoftForm.resources
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.Properties.Resources.resources
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.csproj.GenerateResource.Cache
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.exe
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.pdb
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.csprojResolveAssemblyReference.cache
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\bin\Debug\GameCafeLibrary.dll
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\HardwareSoftwareBrowsing\bin\Debug\GameCafeLibrary.pdb

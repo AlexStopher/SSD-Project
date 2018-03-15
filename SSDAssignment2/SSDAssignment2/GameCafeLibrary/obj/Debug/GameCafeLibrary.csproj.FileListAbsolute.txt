@@ -1,0 +1,11 @@
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\bin\Debug\GameCafeLibrary.dll
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\bin\Debug\GameCafeLibrary.pdb
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.csprojResolveAssemblyReference.cache
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.dll
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.pdb
+C:\Users\slopy\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\GameCafeLibrary\bin\Debug\GameCafeLibrary.dll
+C:\Users\slopy\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\GameCafeLibrary\bin\Debug\GameCafeLibrary.pdb
+C:\Users\slopy\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\slopy\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\slopy\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.dll
+C:\Users\slopy\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.pdb
