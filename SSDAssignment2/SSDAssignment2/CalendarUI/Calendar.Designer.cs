@@ -147,6 +147,7 @@
             this.Controls.Add(this.calendarComponent);
             this.Name = "CalendarForm";
             this.Text = "Calendar of bookings";
+            this.Load += new System.EventHandler(this.CalendarForm_Load);
             this.dateTimeDisplay.ResumeLayout(false);
             this.dateTimeDisplay.PerformLayout();
             this.ResumeLayout(false);

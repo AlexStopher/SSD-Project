@@ -21,3 +21,15 @@ C:\Users\slopy\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Employ
 C:\Users\slopy\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.csproj.CoreCompileInputs.cache
 C:\Users\slopy\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.exe
 C:\Users\slopy\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.pdb
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\bin\Debug\EmployeeEnd.exe.config
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\bin\Debug\EmployeeEnd.exe
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\bin\Debug\EmployeeEnd.pdb
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\bin\Debug\GameCafeLibrary.dll
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\bin\Debug\GameCafeLibrary.pdb
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.EmployeeForm.resources
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.Properties.Resources.resources
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.exe
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.pdb

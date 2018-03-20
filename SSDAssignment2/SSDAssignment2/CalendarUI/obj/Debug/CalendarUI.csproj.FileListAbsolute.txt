@@ -11,3 +11,18 @@ E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignmen
 E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\CalendarUI\bin\Debug\HardwareSoftwareBrowsing.pdb
 E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\CalendarUI\bin\Debug\GameCafeLibrary.dll
 E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\CalendarUI\bin\Debug\GameCafeLibrary.pdb
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\bin\Debug\CalendarUI.exe.config
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\bin\Debug\CalendarUI.exe
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\bin\Debug\CalendarUI.pdb
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\bin\Debug\GameCafeLibrary.dll
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\bin\Debug\HardwareSoftwareBrowsing.exe
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\bin\Debug\GameCafeLibrary.pdb
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\bin\Debug\HardwareSoftwareBrowsing.pdb
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\bin\Debug\HardwareSoftwareBrowsing.exe.config
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\obj\Debug\CalendarUI.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\obj\Debug\CalendarUI.CalendarForm.resources
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\obj\Debug\CalendarUI.Properties.Resources.resources
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\obj\Debug\CalendarUI.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\obj\Debug\CalendarUI.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\obj\Debug\CalendarUI.exe
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarUI\obj\Debug\CalendarUI.pdb

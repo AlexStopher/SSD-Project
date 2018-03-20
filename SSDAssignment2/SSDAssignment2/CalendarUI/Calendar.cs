@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
+
 using HardwareSoftwareBrowsing;
 using GameCafeLibrary;
 
@@ -158,6 +159,11 @@ namespace CalendarUI
         {
             hardSoftListForm = new HardSoftForm();
             hardSoftListForm.Show();
+        }
+
+        private void CalendarForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

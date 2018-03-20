@@ -1,0 +1,10 @@
+C:\Users\Angel\source\repos\MasterApp\MasterApp\bin\Debug\MasterApp.exe.config
+C:\Users\Angel\source\repos\MasterApp\MasterApp\bin\Debug\MasterApp.exe
+C:\Users\Angel\source\repos\MasterApp\MasterApp\bin\Debug\MasterApp.pdb
+C:\Users\Angel\source\repos\MasterApp\MasterApp\obj\Debug\MasterApp.csprojResolveAssemblyReference.cache
+C:\Users\Angel\source\repos\MasterApp\MasterApp\obj\Debug\MasterApp.Properties.Resources.resources
+C:\Users\Angel\source\repos\MasterApp\MasterApp\obj\Debug\MasterApp.csproj.GenerateResource.Cache
+C:\Users\Angel\source\repos\MasterApp\MasterApp\obj\Debug\MasterApp.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\MasterApp\MasterApp\obj\Debug\MasterApp.exe
+C:\Users\Angel\source\repos\MasterApp\MasterApp\obj\Debug\MasterApp.pdb
+C:\Users\Angel\source\repos\MasterApp\MasterApp\obj\Debug\WireFrame.Form1.resources

@@ -1,0 +1,6 @@
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarLibrary\bin\Debug\CalendarLibrary.dll
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarLibrary\bin\Debug\CalendarLibrary.pdb
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarLibrary\obj\Debug\CalendarLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarLibrary\obj\Debug\CalendarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarLibrary\obj\Debug\CalendarLibrary.dll
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\CalendarLibrary\obj\Debug\CalendarLibrary.pdb
