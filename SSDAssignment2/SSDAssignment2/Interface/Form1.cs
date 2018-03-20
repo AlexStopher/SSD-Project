@@ -16,7 +16,7 @@ using GameCafeLibrary;
 
 namespace WireFrame
 {
-    public partial class Form1 : Form
+    public partial class MasterApp : Form
     {
         //Class members
         
@@ -24,13 +24,13 @@ namespace WireFrame
         protected static HardSoftForm m_ViewCurrentStock = new HardSoftForm();
         protected static CalendarForm m_Bookings = new CalendarForm();
 
-        public Form1()
+        public MasterApp()
         {
             InitializeComponent();
           
         }
 
-        private void SubmitBooking_Click(object sender, EventArgs e)
+        private void SubmitBookingButton_Click(object sender, EventArgs e)
         {
           
 
@@ -110,29 +110,17 @@ namespace WireFrame
         //    }
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            //this.Hide();
-            MessageBox.Show("[ENTER COPYRIGHT INFO HERE]");
-            //this.Show();
-        }
-
         private void CheckBookingsButton_Click(object sender, EventArgs e)
         {  
             m_Bookings.ShowDialog();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void HardwareSoftwareButton_Click(object sender, EventArgs e)
         {      
            m_ViewCurrentStock.ShowDialog();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void EmployeeInfoButton_Click(object sender, EventArgs e)
         {
             //Press yes to access the employee info, will add proper authentication later on
             if(MessageBox.Show("Placeholder", "Placeholder", MessageBoxButtons.YesNo) == DialogResult.Yes)

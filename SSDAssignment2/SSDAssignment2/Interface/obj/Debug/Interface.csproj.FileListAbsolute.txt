@@ -1,5 +1,4 @@
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
-C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\WireFrame.Form1.resources
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\MasterApp.Properties.Resources.resources
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
@@ -19,3 +18,4 @@ C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interf
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\GameCafeLibrary.pdb
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\HardwareSoftwareBrowsing.pdb
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\HardwareSoftwareBrowsing.exe.config
+C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\WireFrame.MasterApp.resources
