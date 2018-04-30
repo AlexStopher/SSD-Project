@@ -95,6 +95,10 @@
       <Project>{2eb89d2b-114c-4741-855e-5a23b24b6836}</Project>
       <Name>HardwareSoftwareBrowsing</Name>
     </ProjectReference>
+    <ProjectReference Include="..\User Login\UserLogin.csproj">
+      <Project>{04f24aec-900b-447c-8cd1-39c2b5f61d5b}</Project>
+      <Name>UserLogin</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

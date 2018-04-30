@@ -19,3 +19,28 @@ C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interf
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\HardwareSoftwareBrowsing.pdb
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\HardwareSoftwareBrowsing.exe.config
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\WireFrame.MasterApp.resources
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\MasterApp.exe.config
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\MasterApp.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\MasterApp.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\CalendarUI.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\EmployeeEnd.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\GameCafeLibrary.dll
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\HardwareSoftwareBrowsing.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\CalendarUI.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\CalendarUI.exe.config
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\EmployeeEnd.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\EmployeeEnd.exe.config
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\GameCafeLibrary.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\HardwareSoftwareBrowsing.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\HardwareSoftwareBrowsing.exe.config
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\WireFrame.MasterApp.resources
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\MasterApp.Properties.Resources.resources
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\Interface.csproj.CopyComplete
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\MasterApp.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\obj\Debug\MasterApp.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\User Login.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\User Login.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Interface\bin\Debug\User Login.exe.config

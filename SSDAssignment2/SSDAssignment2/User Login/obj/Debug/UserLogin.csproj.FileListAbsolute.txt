@@ -1,0 +1,16 @@
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\bin\Debug\User Login.exe.config
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\bin\Debug\User Login.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\bin\Debug\User Login.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\obj\Debug\UserLogin.csprojResolveAssemblyReference.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\obj\Debug\User_Login.Properties.Resources.resources
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\obj\Debug\UserLogin.csproj.GenerateResource.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\obj\Debug\User Login.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\obj\Debug\User Login.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\obj\Debug\UserLogin.LoginForm.resources
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\bin\Debug\EmployeeEnd.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\bin\Debug\GameCafeLibrary.dll
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\bin\Debug\EmployeeEnd.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\bin\Debug\EmployeeEnd.exe.config
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\bin\Debug\GameCafeLibrary.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\User Login\obj\Debug\UserLogin.csproj.CopyComplete

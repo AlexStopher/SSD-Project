@@ -9,10 +9,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 //including other projects for access to namespaces
+using UserLogin;
 using EmployeeEnd;
 using CalendarUI;
 using HardwareSoftwareBrowsing;
 using GameCafeLibrary;
+
 
 namespace WireFrame
 {
@@ -20,9 +22,10 @@ namespace WireFrame
     {
         //Class members
         
-        protected static EmployeeForm m_EmployeeInfo = new EmployeeForm();
+        
         protected static HardSoftForm m_ViewCurrentStock = new HardSoftForm();
         protected static CalendarForm m_Bookings = new CalendarForm();
+        protected static LoginForm m_LoginForm = new LoginForm();
 
         public MasterApp()
         {
@@ -122,11 +125,13 @@ namespace WireFrame
 
         private void EmployeeInfoButton_Click(object sender, EventArgs e)
         {
-            //Press yes to access the employee info, will add proper authentication later on
-            if(MessageBox.Show("Placeholder", "Placeholder", MessageBoxButtons.YesNo) == DialogResult.Yes)
-            {        
-                m_EmployeeInfo.ShowDialog();
-            }           
+            ////Press yes to access the employee info, will add proper authentication later on
+            //if(MessageBox.Show("Placeholder", "Placeholder", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            //{        
+            //    m_EmployeeInfo.ShowDialog();
+            //}           
+
+            m_LoginForm.ShowDialog();
         }
     }
 }

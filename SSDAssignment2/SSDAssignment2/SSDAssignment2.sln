@@ -10,6 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Inte
 		{19423F63-353D-4F70-A417-FEA3CC3599A4} = {19423F63-353D-4F70-A417-FEA3CC3599A4}
 		{7B070BA7-8B64-4681-8594-CC3A99DE45C7} = {7B070BA7-8B64-4681-8594-CC3A99DE45C7}
 		{385BE4BC-4CDD-4ADD-B49B-1B30FA79332C} = {385BE4BC-4CDD-4ADD-B49B-1B30FA79332C}
+		{04F24AEC-900B-447C-8CD1-39C2B5F61D5B} = {04F24AEC-900B-447C-8CD1-39C2B5F61D5B}
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarLibrary", "CalendarLibrary\CalendarLibrary.csproj", "{385BE4BC-4CDD-4ADD-B49B-1B30FA79332C}"
@@ -21,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCafeLibrary", "GameCafeLibrary\GameCafeLibrary.csproj", "{19423F63-353D-4F70-A417-FEA3CC3599A4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwareSoftwareBrowsing", "HardwareSoftwareBrowsing\HardwareSoftwareBrowsing.csproj", "{2EB89D2B-114C-4741-855E-5A23B24B6836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLogin", "User Login\UserLogin.csproj", "{04F24AEC-900B-447C-8CD1-39C2B5F61D5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -52,6 +55,10 @@ Global
 		{2EB89D2B-114C-4741-855E-5A23B24B6836}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB89D2B-114C-4741-855E-5A23B24B6836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB89D2B-114C-4741-855E-5A23B24B6836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F24AEC-900B-447C-8CD1-39C2B5F61D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F24AEC-900B-447C-8CD1-39C2B5F61D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F24AEC-900B-447C-8CD1-39C2B5F61D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F24AEC-900B-447C-8CD1-39C2B5F61D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

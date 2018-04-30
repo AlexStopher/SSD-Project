@@ -21,3 +21,16 @@ C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Hardwa
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.csproj.CoreCompileInputs.cache
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.exe
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\bin\Debug\HardwareSoftwareBrowsing.exe.config
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\bin\Debug\HardwareSoftwareBrowsing.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\bin\Debug\HardwareSoftwareBrowsing.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\bin\Debug\GameCafeLibrary.dll
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\bin\Debug\GameCafeLibrary.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.csprojResolveAssemblyReference.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.HardSoftForm.resources
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.Properties.Resources.resources
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.csproj.GenerateResource.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.csproj.CoreCompileInputs.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.csproj.CopyComplete
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\HardwareSoftwareBrowsing\obj\Debug\HardwareSoftwareBrowsing.pdb

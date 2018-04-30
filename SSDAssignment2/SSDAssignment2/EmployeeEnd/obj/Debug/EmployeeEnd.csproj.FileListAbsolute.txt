@@ -33,3 +33,16 @@ C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\Employ
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.csproj.CoreCompileInputs.cache
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.exe
 C:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\bin\Debug\EmployeeEnd.exe.config
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\bin\Debug\EmployeeEnd.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\bin\Debug\EmployeeEnd.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\bin\Debug\GameCafeLibrary.dll
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\bin\Debug\GameCafeLibrary.pdb
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.csprojResolveAssemblyReference.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.EmployeeForm.resources
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.Properties.Resources.resources
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.csproj.GenerateResource.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.csproj.CoreCompileInputs.cache
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.csproj.CopyComplete
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.exe
+D:\Users\Angel\Documents\GitHub\SSD-Project\SSDAssignment2\SSDAssignment2\EmployeeEnd\obj\Debug\EmployeeEnd.pdb
