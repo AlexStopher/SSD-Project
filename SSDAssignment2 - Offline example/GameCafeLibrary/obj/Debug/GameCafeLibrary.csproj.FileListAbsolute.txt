@@ -1,0 +1,12 @@
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\bin\Debug\GameCafeLibrary.dll
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\bin\Debug\GameCafeLibrary.pdb
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.csprojResolveAssemblyReference.cache
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.dll
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.pdb
+E:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.csproj.CoreCompileInputs.cache
+D:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\bin\Debug\GameCafeLibrary.dll
+D:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\bin\Debug\GameCafeLibrary.pdb
+D:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.csprojResolveAssemblyReference.cache
+D:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.csproj.CoreCompileInputs.cache
+D:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.dll
+D:\University work\Year 3\Software Systems Development\Assignment 2\SSDAssignment2\GameCafeLibrary\obj\Debug\GameCafeLibrary.pdb
